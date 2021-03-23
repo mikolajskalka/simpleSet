@@ -1,2 +1,5 @@
 Makefile
 main*
+test*
+DATASS
+.vscode
